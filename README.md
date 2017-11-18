@@ -1,6 +1,6 @@
 # TwitterAnalysis
 
-A work in progress
+Work in progress
 
 Using textblob for Natural language Processing, this script extracts sentiments from most recent 100 tweets about the topic.
 It then generates a csv file titled *topic*.csv mentioning the number of positive tweets, number of negative tweets and then mentions the tweets under their respective sections.
